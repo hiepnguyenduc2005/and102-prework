@@ -2,7 +2,7 @@
 
 Submitted by: **Hiep Nguyen**
 
-**Hiep Nguyen** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Intro and Hello** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **2** hours spent in total
 
